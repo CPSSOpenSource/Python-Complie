@@ -1,7 +1,11 @@
 language: python
-version:
+python:
+  - "3.4"
   - "3.5"
+  - "3.5-dev"
   - "3.6"
+  - "3.6-dev"
+  - "3.7-dev"
 script:
   - ./scripts/travis-ci_3.sh
 before_install:
