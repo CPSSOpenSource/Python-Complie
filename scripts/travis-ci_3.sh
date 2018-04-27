@@ -5,7 +5,7 @@ do
   for index in $(seq 5)
   do
     cd ..
-    python "${!user}/$WEEK/level_$index.py"
+    python "./${!user}/$WEEK/level_$index.py"
   done
   echo -e "finished: ${!user}"
 done
