@@ -1,4 +1,5 @@
-# Python-Complie
+[![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Report-Complie.svg?branch=master)](https://travis-ci.org/CPSSOpenSource/Python-Report-Complie)
+# Python-Online-Complie
 팀원들이 제출한 과제(소스 코드)를 CI 툴을 이용해서 컴파일하여 온라인 상으로 결과를 확인합니다.
 
 # 레포토리 식별
