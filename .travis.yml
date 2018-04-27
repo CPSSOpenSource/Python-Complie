@@ -1,7 +1,6 @@
 language: python
 version:
   - "3.5"
-  - "3.5-dev"
   - "3.6"
 script:
   - ./scripts/travis-ci_3.sh
