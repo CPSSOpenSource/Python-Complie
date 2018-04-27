@@ -7,7 +7,7 @@ script:
   - ./scripts/travis-ci_3.sh
 before_install:
   - chmod +x ./scripts/travis-ci_3.sh
-  - CSB=ea4ad765ac356ab9ffb297c65fda7563328c26f6
-  - LMK=d30ee9c5f4dfa2c2e18f9705cfed5c1f80694cbb
-  - KSB=917dc0abe13968967557f9ace53ac4782923e9c7
-  - WEEK="3 weeks"
+  - export CSB=ea4ad765ac356ab9ffb297c65fda7563328c26f6
+  - export LMK=d30ee9c5f4dfa2c2e18f9705cfed5c1f80694cbb
+  - export KSB=917dc0abe13968967557f9ace53ac4782923e9c7
+  - export WEEK="3 weeks"
