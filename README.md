@@ -2,6 +2,9 @@
 # Python-Online-Complie
 팀원들이 제출한 과제(소스 코드)를 CI 툴을 이용해서 컴파일하여 온라인 상으로 결과를 확인합니다.
 
+# Result
+https://travis-ci.org/CPSSOpenSource/Python-Report-Complie
+
 # 레포토리 식별
 레포토리의 이름은 익명성을 위해 해시 알고리즘 결과값으로 지정합니다. 현재까지 등록된 레포토리는 3개입니다.
 
