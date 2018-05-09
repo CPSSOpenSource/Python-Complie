@@ -1,5 +1,5 @@
 user_array=("CSB" "LMK" "KSB")
-file_list=("prime" "fibo" "fileio")
+file_list=("prime" "fibo")
 for user in ${user_array[@]}
 do
   for filename in ${file_list[@]}
